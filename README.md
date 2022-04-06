@@ -45,7 +45,7 @@
   2- Há algoritmos em literatura que resolvam esse problema ?<br/>
     Resposta:<br/><br/>
   3- Pode existir mais de um caminho cujo valor total é o maximo?<br/>
-    Resposta: Sim, quando os valores da matriz são iguais.<br<br/>
+    Resposta: Sim, quando os valores da matriz são iguais.<br/><br/>
   </ol>
 </body>
 
